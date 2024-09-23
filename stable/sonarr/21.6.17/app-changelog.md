@@ -22,9 +22,9 @@
 
 - update container image common to v20.3.7[@8cf9fc9](https://github.com/8cf9fc9) by renovate ([#20819](https://github.com/truecharts/charts/issues/20819))
 
-- update container image ghcr.io/onedr0p/sonarr to 4.0.4.1491[@3689961](https://github.com/3689961) by renovate ([#20770](https://github.com/truecharts/charts/issues/20770))
+- update container image ghcr.io/onedr0p/sonarr to 4.0.9.2244[@3689961](https://github.com/3689961) by renovate ([#20770](https://github.com/truecharts/charts/issues/20770))
 
-- update container image ghcr.io/onedr0p/sonarr to v4.0.4.1491[@b487a98](https://github.com/b487a98) by renovate ([#20717](https://github.com/truecharts/charts/issues/20717))
+- update container image ghcr.io/onedr0p/sonarr to v4.0.9.2244[@b487a98](https://github.com/b487a98) by renovate ([#20717](https://github.com/truecharts/charts/issues/20717))
 
 - update container image common to v20.3.6[@27edfed](https://github.com/27edfed) by renovate ([#20599](https://github.com/truecharts/charts/issues/20599))
 
